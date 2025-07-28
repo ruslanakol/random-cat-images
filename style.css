@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #F3E2D4;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.main-container {
+    height: 500px;
+    border: solid black 1px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+button {
+    margin-top: 50px;
+    display: flex;
+    padding: 20px 45px;
+    background: #415E72;
+    color: #F3E2D4;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
